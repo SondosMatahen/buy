@@ -1,6 +1,6 @@
 
 @import 'font.css';
-@import 'header.css';
+@import 'styles/media.css';
 main{
     /* padding: 1rem 4rem;
     margin-bottom: 3rem; */
@@ -399,7 +399,7 @@ width:100px;
 }
 
 
-@media (max-width: 768px){
+@media (max-width: 1135px){
 html,body,main{
     width: 100%;
     margin: 0;
